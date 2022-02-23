@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Frodriguezperez
+- 👀 I’m interested in BI
+- 🌱 I’m currently learning BI
